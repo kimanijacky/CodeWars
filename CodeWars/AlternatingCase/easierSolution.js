@@ -3,6 +3,3 @@ String.prototype.toAlternatingCase = function (){
 		return val === val.toUpperCase() ? val.toLowerCase() : val.toUpperCase();
 	});
 };
-
-console.log('helLo wOrLd'.toAlternatingCase());
-
