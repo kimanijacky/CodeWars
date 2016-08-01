@@ -8,5 +8,7 @@ Your output should ignore leading 0s.
 
 For example:
 
-```toBinary(3)=="11"
-toBinary(-3)=="11111111111111111111111111111101"```
+```
+toBinary(3) == 11
+toBinary(-3) == 11111111111111111111111111111101
+```
